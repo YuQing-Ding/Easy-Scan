@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Scan</string>
+    <string name="idCardLabel">身份证识别</string>
+    <string name="bankCardLabel">银行卡识别</string>
+    <string name="generalLabel">EasyScanOCRActivity</string>
+    <string name="scan">立即扫描</string>
+    <string name="next">下一步</string>
+    <string name="skip">跳过</string>
+    <string name="start">開始使用</string>
+    <string name="copy">Easy Scan 一鍵複製</string>
+    <string name="copy_tips">掃描結果請自行複制</string>
+    <string name="Scan_tips">通過拍照掃描</string>
+    <string name="Welcome">歡迎</string>
+    <string name="Welcome2">開啟全新的Easy工作方式</string>
+    <string name="Welcome_tips1">輕鬆將紙質文檔變為電子文檔</string>
+    <string name="nothing_in_clipboard">無內容，無法複製。</string>
+    <string name="clipboard_have_things">複製成功，請粘貼在任何文字編輯軟件中進行編輯。</string>
+    <string name="updatelink">https://update.easysoftware.xyz/update/zh-TW/update.json</string>
+</resources>

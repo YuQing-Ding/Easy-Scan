@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Scan</string>
+    <string name="copy">Easy Scan One-click copy</string>
+    <string name="start">Start!</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="scan">Scan Now!</string>
+    <string name="generalLabel">EasyScanOCRActivity</string>
+    <string name="bankCardLabel">Bank Card</string>
+    <string name="idCardLabel">ID Card</string>
+    <string name="copy_tips">Please press the button above to copy the scan results.</string>
+    <string name="Scan_tips">Scan by photo</string>
+    <string name="Welcome_tips1">Easily convert paper documents into electronic documents</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Welcome2">Make work easier</string>
+    <string name="nothing_in_clipboard">Can\'t copy because the text box has nothing.</string>
+    <string name="clipboard_have_things">The copy is successful, please paste it in any text editing software for editing.</string>
+    <string name="updatelink">https://update.easysoftware.xyz/update/en-US/update.json</string>
+</resources>
